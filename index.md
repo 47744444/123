@@ -9,24 +9,19 @@
 希望未來能做到的事
 
 ```markdown
-Syntax highlighted code block
 
-# 加入伺服器
-## 後臺管理
-### 設計美編
+1. 加入伺服器 
+    學會撰寫node
+    
+3. 後臺管理   
+    上傳到heroku
+    
+5. 設計美編
+    能像大公司的網頁   
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://img.moegirl.org.cn/common/thumb/c/cb/Doraemon2.png/420px-Doraemon2.png)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Basic writing and formatting syntax](https://ithelp.ithome.com.tw/articles/10253277).
 
 ### Jekyll Themes
 
