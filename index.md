@@ -2,18 +2,18 @@
 
 這是我為期末專題所架設的靜態網站
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Expectation
+
+希望未來能做到的事
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 加入伺服器
+## 後臺管理
+### 設計美編
 
 - Bulleted
 - List
